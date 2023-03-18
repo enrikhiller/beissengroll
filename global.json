@@ -1,0 +1,22 @@
+{
+    "title": "Dr. Beißengroll",
+    "author": "Enrik Hiller",
+    "style": "/assets/stylesheets",
+    "img": "/assets/imgs",
+    "script": "/public/",
+    "font-familiy": "https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap",
+    "Navigation": [
+        {
+            "Thema":"Kontakt",
+            "Link": "/contact"
+        },
+        {
+            "Thema":"Datenschutz",
+            "Link": "/datenschutz"
+        },
+        {
+            "Thema":"Impressum",
+            "Link": "/impressum"
+        }
+    ]
+}
